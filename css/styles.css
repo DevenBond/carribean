@@ -8,23 +8,46 @@ font-family: 'Roboto Slab', serif;
 p{
 	font-size: 100px;
 }
-header{
+#header1{
 	min-height: 400px;
 	background-color: #734f2f;
-	background-image: url("../images/home_beach.jpg");
+	background-image: url("../images/home_Beach.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+#header2{
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/trunkBayBeach.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+#header3{
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/ShoalBayEast.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+#header4{
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/GraceBayBeach.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 20% 20%;
 }
 
-heading1 {
+heading1{
 	
 }
 
-heading2 {
+heading2{
 	
 }
-
 block quote {
 	
 }
