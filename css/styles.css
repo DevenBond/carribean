@@ -1,0 +1,58 @@
+body {
+text-align: center;	
+background-color: #89CFF0;
+	font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+
+p{
+	font-size: 100px;
+}
+header{
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/home_beach.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+
+heading1 {
+	
+}
+
+heading2 {
+	
+}
+
+block quote {
+	
+}
+
+table tag {
+	
+}
+
+a:hover {
+	
+	}
+
+nav a:hover {
+	background-color: black;
+	color: white;
+}
+
+nav {
+	width: 100%;
+	background-color: #D2B48C;
+	min-height: 50px;
+	text-align:  center;
+	color: aquamarine;
+	font-size: 40px;
+}
+
+nav li {
+	display: inline-block;
+	width: 10%;
+	text-align: center;
+}
